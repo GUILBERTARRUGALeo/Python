@@ -1,16 +1,14 @@
-# **Projets Python**
+# Data Analysis & Blockchain Research 📊🔗
 
-Ce repository regroupe mes projets Python, axés sur l'analyse de données, le machine learning et la visualisation.
+Ce mémoire contient du code et des analyses sur l'impact de la blockchain dans un contexte géopolitique et financier, avec un focus sur le cas du Salvador.
 
----
+## Structure 🗂️
+- **Scripts Python et SQL** : Analyse de données d'investissements en cryptomonnaies, calculs du CAGR, visualisations.
+- **Technos** : Python, SQL.
 
-## 📁 **Structure**
-- **`main`** : README principal.  
-- **Branches spécifiques** :
-Différents travaux sur plusieurs sujets en python
+## Auteurs ✍️
+Léo Guilbert-Arruga, Ibtissem Jebali, Yacine Belhadj-Chaidi
 
----
-
-
-## 🏆 **Auteur**
-Créé par Léo GUILBERT--ARRUGA 
+## Objectifs 🎯
+1. Étudier la blockchain pour la transparence financière.
+2. Analyser l'adoption des cryptomonnaies par les banques.
